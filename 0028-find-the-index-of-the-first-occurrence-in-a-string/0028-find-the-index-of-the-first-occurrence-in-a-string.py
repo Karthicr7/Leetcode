@@ -5,7 +5,7 @@ class Solution(object):
         :type needle: str
         :rtype: int
         """
-       if needle == "":
+        if needle == "":
             return 0
 
         n = len(needle)
