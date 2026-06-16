@@ -16,10 +16,19 @@ Placement preparation
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2126-destroying-asteroids](https://github.com/Karthicr7/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Karthicr7/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Karthicr7/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Karthicr7/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2126-destroying-asteroids](https://github.com/Karthicr7/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2126-destroying-asteroids](https://github.com/Karthicr7/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 <!---LeetCode Topics End-->
