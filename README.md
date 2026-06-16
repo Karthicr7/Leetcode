@@ -18,6 +18,7 @@ Placement preparation
 | ------- | ------- |
 | [2126-destroying-asteroids](https://github.com/Karthicr7/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Karthicr7/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Karthicr7/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Karthicr7/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -31,4 +32,8 @@ Placement preparation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2126-destroying-asteroids](https://github.com/Karthicr7/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Karthicr7/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 <!---LeetCode Topics End-->
