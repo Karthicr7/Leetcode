@@ -37,4 +37,12 @@ Placement preparation
 | ------- | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Karthicr7/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Karthicr7/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/Karthicr7/Leetcode/tree/main/0190-reverse-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/Karthicr7/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
