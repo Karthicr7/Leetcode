@@ -35,5 +35,6 @@ Placement preparation
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Karthicr7/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Karthicr7/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 <!---LeetCode Topics End-->
