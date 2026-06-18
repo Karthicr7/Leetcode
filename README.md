@@ -37,6 +37,7 @@ Placement preparation
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Karthicr7/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Karthicr7/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Karthicr7/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Divide and Conquer
@@ -51,4 +52,8 @@ Placement preparation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Karthicr7/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Karthicr7/Leetcode/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
