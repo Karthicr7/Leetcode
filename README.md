@@ -16,6 +16,7 @@ Placement preparation
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Karthicr7/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Karthicr7/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Karthicr7/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Karthicr7/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -27,6 +28,7 @@ Placement preparation
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Karthicr7/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Karthicr7/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -45,4 +47,8 @@ Placement preparation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/Karthicr7/Leetcode/tree/main/0190-reverse-bits/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Karthicr7/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
