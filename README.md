@@ -18,6 +18,7 @@ Placement preparation
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Karthicr7/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Karthicr7/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0066-plus-one](https://github.com/Karthicr7/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Karthicr7/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Karthicr7/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Karthicr7/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -42,6 +43,7 @@ Placement preparation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Karthicr7/Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/Karthicr7/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Karthicr7/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Karthicr7/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Divide and Conquer
