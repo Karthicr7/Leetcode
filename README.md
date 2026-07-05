@@ -6,6 +6,7 @@ Placement preparation
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/Karthicr7/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Karthicr7/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Karthicr7/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
@@ -81,4 +82,8 @@ Placement preparation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Karthicr7/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Karthicr7/Leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
