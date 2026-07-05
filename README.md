@@ -18,6 +18,7 @@ Placement preparation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Karthicr7/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0035-search-insert-position](https://github.com/Karthicr7/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Karthicr7/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/Karthicr7/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthicr7/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -86,4 +87,8 @@ Placement preparation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Karthicr7/Leetcode/tree/main/0796-rotate-string/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/Karthicr7/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
