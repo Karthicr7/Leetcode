@@ -52,6 +52,7 @@ Placement preparation
 | [0066-plus-one](https://github.com/Karthicr7/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Karthicr7/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Karthicr7/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Karthicr7/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
