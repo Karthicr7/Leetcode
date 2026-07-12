@@ -24,6 +24,7 @@ Placement preparation
 | [0042-trapping-rain-water](https://github.com/Karthicr7/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/Karthicr7/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthicr7/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Karthicr7/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Karthicr7/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karthicr7/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Karthicr7/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -43,6 +44,7 @@ Placement preparation
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Karthicr7/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Karthicr7/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Karthicr7/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 ## Math
@@ -97,4 +99,8 @@ Placement preparation
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Karthicr7/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Karthicr7/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Karthicr7/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 <!---LeetCode Topics End-->
