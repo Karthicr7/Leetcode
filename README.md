@@ -103,4 +103,8 @@ Placement preparation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Karthicr7/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/Karthicr7/Leetcode/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
