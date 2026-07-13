@@ -1,0 +1,12 @@
+class Solution(object):
+    def sequentialDigits(self, low, high):
+        nums = "123456789"
+        ans = []
+
+        for length in range(len(str(low)), len(str(high)) + 1):
+            for start in range(10 - length):
+                num = int(nums[start:start + length])
+                if low <= num <= high:
+                    ans.append(num)
+
+        return ans
